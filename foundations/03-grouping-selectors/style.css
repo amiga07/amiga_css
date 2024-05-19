@@ -1,0 +1,13 @@
+.button{
+    font-size: 28px;
+    font-family: Helvetica, Verdana, sans-serif;
+    border-color: black;
+}
+.button.black{
+    color: white;
+    background-color: black;
+}
+.button.yellow{
+    background-color: rgb(255, 255, 0);
+    color: black;
+}
